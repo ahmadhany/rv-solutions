@@ -1,0 +1,21 @@
+Create a single page application using
+Javascript or Typescript and a well-known
+Javascript framework; React for preference but
+Aurelia, Angular and JQuery are examples of
+other acceptable frameworks:
+a. The page contains three buttons in
+separate areas of the page and single
+image. Note that your buttons can be
+anything and can all be of the same type
+- the diagram is just a hint. The image
+and each button must be packaged
+separately; for example, discrete React
+controls.
+b. Clicking on a button displays a specific
+image in the image area - each button
+has a different image.
+c. A button should give visual indication that it is currently selected or not
+selected.
+d. Clicking on the image cycles through the images and button states; for
+example, image one displayed means that button one should be shown as
+selected.

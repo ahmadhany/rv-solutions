@@ -1,0 +1,6 @@
+Using either Javascript or Typescript, write code to reverse the word order of a
+sentence; for example, Mary had a little lamb.
+a. Spaces may be prepended to, or appended after, the sentence. Spaces
+must not be truncated or removed.
+b. The number of spaces between words may vary and must not be
+truncated or removed.

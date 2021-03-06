@@ -1,0 +1,4 @@
+export const LOAD_IMAGES = 'LOAD_IMAGES';
+export const SET_ACTIVE_IMAGE = 'SET_ACTIVE_IMAGE';
+export const NEXT_IMAGE = 'NEXT_IMAGE'
+export const SET_INACTIVE_IMAGE = 'SET_INACTIVE_IMAGE'
